@@ -75,7 +75,7 @@ body {
     margin-left: 20px;
     font-size: 33px;
     font-weight: bolder;
-    padding: 5px, 5px;
+    padding: 5px 5px;
 }
 
 .start-text2 {
@@ -91,7 +91,7 @@ body {
     margin-left: 90px;
     font-size: 33px;
     font-weight: bolder;
-    padding: 5px, 5px;
+    padding: 5px 5px;
 }
 
 .daily {
@@ -330,7 +330,6 @@ body {
     font-weight: bold;
     font-size: 25px;
     color: black;
-    height: 200;
     width: 75%;
 }
 
@@ -369,6 +368,7 @@ body {
 .recipearea {
     display: flex;
     width: 1200px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .videobox {
@@ -381,4 +381,8 @@ body {
 .listadjust {
     margin-bottom: -2px;
     font-weight: bold;
+}
+
+.fontchange {
+    font-family: Arial, Helvetica, sans-serif;
 }
