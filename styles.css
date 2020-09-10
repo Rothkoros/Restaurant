@@ -41,7 +41,6 @@ body {
 .start {
     background-image: url("images/hero-image.jpg");
     background-size: 100%;
-    margin-top: 2px;
     height: 550px;
     display: flex;
     justify-content: center;
